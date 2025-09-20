@@ -1,0 +1,61 @@
+Folder PATH listing for volume Windows-SSD
+Volume serial number is 2CD7-88B3
+C:.
+¦   .gitignore
+¦   index.js
+¦   package-lock.json
+¦   package.json
+¦   README.md
+¦   structure.txt
+¦   vercel.json
+¦   
++---config
+¦       cloudinary.js
+¦       database.js
+¦       razorpay.js
+¦       
++---controllers
+¦       Auth.js
+¦       Category.js
+¦       Course.js
+¦       courseProgress.js
+¦       Payments.js
+¦       Profile.js
+¦       RatingAndReview.js
+¦       ResetPassword.js
+¦       Section.js
+¦       SubSection.js
+¦       
++---mail
+¦   +---templates
+¦           contactFormRes.js
+¦           courseEnrollmentEmail.js
+¦           emailVerificationTemplate.js
+¦           passwordUpdate.js
+¦           paymentSuccessEmail.js
+¦           
++---middlewares
+¦       auth.js
+¦       
++---models
+¦       Category.js
+¦       Course.js
+¦       CourseProgress.js
+¦       OTP.js
+¦       Profile.js
+¦       RatingAndReview.js
+¦       Section.js
+¦       SubSection.js
+¦       User.js
+¦       
++---routes
+¦       Course.js
+¦       Payments.js
+¦       Profile.js
+¦       User.js
+¦       
++---utils
+        imageUploader.js
+        mailSender.js
+        secToDuration.js
+        
