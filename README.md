@@ -90,3 +90,4 @@ Campus-Hive-Backend/
 ├── .env               # Environment variables
 ├── .gitignore
 └── README.md
+"# CampusHiveBackend" 
